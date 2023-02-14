@@ -11,5 +11,5 @@ Let me tell you a few things about myself,
 - 🤔 I’m looking for help with collaborating projects.
 - 📫 How to reach me: gautamjangid395@gmail.com,
 - [Hey WhatsApp](https://wa.me/917877394329).
-- 😄 Pronouns: monu
+- 😄 Pronouns: monu🥰🥰
 

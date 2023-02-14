@@ -1,9 +1,9 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**gautam7240/gautam7240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Let me tell you a few things about myself,
+
+
 
 - 🔭 I’m currently working on web designing
 - 🌱 I’m currently learning fullstack 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gautamjangid395@gmail.com, [Hey WhatsApp](https://wa.me/917877394329).
 - 😄 Pronouns: monu
 
--->
